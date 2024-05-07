@@ -12,4 +12,3 @@ Realizado por 💻 Armando Garcia
 | H-4  | 🗽 Free Mode|
 | H-5  | 🗽 Free Mode|
 | H-6  | 🗽 Free Mode|
->>>>>>> 79a37c6aff2717152cce9167213ba2dd2a4b3115
