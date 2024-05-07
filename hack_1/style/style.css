@@ -1,0 +1,37 @@
+:root {
+    --bg-blue:#93B5C9;
+    --bg-mine:#AB2849;
+}
+
+#Menu {
+    background: var(--bg-blue);
+    width: 100%;
+    height: 100px;    
+}
+
+#rojo{
+    background: var(--bg-mine);
+    width: 100%;
+    height: 200px;    
+}
+
+#Seccion {
+    position: relative;
+    left: 25%;
+}
+
+#Articulo {
+    position:relative;    
+    background: var(--bg-mine);
+    width: 75%;
+    height: 100px;
+    margin: 20px 0 20px 0 ;
+}
+
+#Pie {
+    position: relative;
+    background: var(--bg-mine);
+    width: 80;
+    height: 100px;
+    margin: 0% 5% 0% 5%;    
+}
