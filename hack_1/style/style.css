@@ -3,6 +3,10 @@
     --bg-mine:#AB2849;
 }
 
+body{
+    margin: 0;
+}
+
 #Menu {
     background: var(--bg-blue);
     width: 100%;
