@@ -26,16 +26,14 @@ body{
     position:relative;    
 }
 
-#Articulo {
-    position:relative;    
+#Articulo {   
     background: var(--bg-mine);
     width: 75%;
     height: 100px;
     margin: 20px 0 20px 25% ;
 }
 
-#Pie {
-    position: relative;
+#Pie {    
     background: var(--bg-mine);
     width: 90%;
     height: 100px;
