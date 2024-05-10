@@ -2,6 +2,9 @@
     --bg-blue:#93B5C9;
     --bg-mine:#AB2849;
 }
+*{
+    box-sizing: border-box;
+}
 
 body{
     margin: 0;
@@ -19,9 +22,8 @@ body{
     height: 200px;    
 }
 
-#Seccion {
-    position: relative;
-    left: 25%;
+#Contenedor {
+    position:relative;    
 }
 
 #Articulo {
@@ -29,13 +31,13 @@ body{
     background: var(--bg-mine);
     width: 75%;
     height: 100px;
-    margin: 20px 0 20px 0 ;
+    margin: 20px 0 20px 25% ;
 }
 
 #Pie {
     position: relative;
     background: var(--bg-mine);
-    width: 80;
+    width: 90%;
     height: 100px;
     margin: 0% 5% 0% 5%;    
 }
