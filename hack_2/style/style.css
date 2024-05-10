@@ -1,0 +1,46 @@
+:root {
+    --bg-blue: #93B5C9;
+    --bg-mine: #AB2849;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#Menu {
+    background: var(--bg-blue);
+    width: 100%;
+    height: 100px;
+}
+
+#rojo {
+    background: var(--bg-mine);
+    width: 100%;
+    height: 200px;
+}
+
+#Contenedor {
+    position: relative;
+}
+
+#Articulo {
+    background: var(--bg-mine);
+    width: 75%;
+    height: 100px;
+    /* Flota a la Isquierda*/
+    float:left;
+    margin: 20px 0 20px 0; */
+}
+
+#Pie {    
+    background: var(--bg-mine);
+    /* Evita que el Div Suva*/
+    clear: both;
+    width: 90%;
+    height: 100px;
+    margin: 0% 5% 0% 5%;
+}
